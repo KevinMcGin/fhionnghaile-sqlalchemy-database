@@ -1,9 +1,6 @@
 name = "fhionnghaile-sqlalchemy-database"
 version = "0.0.1"
 dependencies = [
-    "flask-sqlalchemy",
-    "psycopg2-binary",
-    "python-dotenv",
 ]
 requires-python = ">= 3.0"
 description = "A package for creating a single SQLAlchemy database connection in Flask between modules."
